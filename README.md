@@ -1,0 +1,2 @@
+# AlgoritmaTIa
+rumus segitiga
